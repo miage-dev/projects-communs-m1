@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Projet Commun M1 CLASS/APP
+# Projet Commun M1 Miage Sorbonne
 
 La « pédagogie par projets » représente à la MIAGE Sorbonne une part significative de la formation. Elle permet aux étudiants de travailler par groupe sur des cas concrets, leur offrant ainsi une connexion directe avec l’industrie et une confrontation avec des problématiques réelles.
 
@@ -28,6 +28,17 @@ Le sponsor doit avoir un rôle actif dans le projet, passant par exemple par la 
 ## l'équipe
 
 L'équipe est composée de 4 à 6 étudiants, assumant chacun des rôles spéficiques attendus en fonction du contexte projet.
+
+## Planning
+
+Le projet se déroule en 4 phases:
+
+1. Recherche de Sponsor Septembre => 15 Novembre : Les étudiants forment leurs groupes et recherchent un sponsor (industrie, services, associatif)
+2. Phase de pré-projet 15 Novembre => 15 janvier : les étudiants préparent les livrables amonts en partenariat avec le sponsor et le transmettent à l'enseignant
+3. Phase d'exécution des projet : Kickoff des projets 30 Janvier, après un retour de l'enseignant sur les livrables amonts, le travail commence sur le projet
+4. Fin des projet et Soutenance académique Mi Juin: les livrables amonts + avals sont transmis à l'enseignant 7 jours avant la soutenance. Le sponsor envoie la [fiche bilan du projet](assets/templates/05_retour_sponsor/05_retour_sponsor.pdf) à l'enseignant avant la soutenance.
+
+NB: si le sponsor n'est pas identifié à la fin de la phase de recherche de sponsor, un sujet sera proposé au étudiants par l'enseignant. Le projet est alors noté sur 15.
 
 ## Livrables du projet
 
